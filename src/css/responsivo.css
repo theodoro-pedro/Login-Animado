@@ -1,0 +1,5 @@
+@media(max-width: 553px){
+    .social-icons a{
+        width: 40%;
+    }
+}
